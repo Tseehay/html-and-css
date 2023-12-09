@@ -1,0 +1,19 @@
+body{
+    background: black;
+}
+
+.herTxt{
+
+   
+
+    position: absolute;
+    color: white;
+    font-size: 100px;  
+    top: 25%;
+     left: 40%; 
+}
+
+.pc{
+    width: 100%;
+    height: auto;
+}

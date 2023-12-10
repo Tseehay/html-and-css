@@ -9,7 +9,7 @@
 <body>
     <div class="box">
          <div class="herTxt">
-           Her_Codes
+           Her Codes
         </div>
         <img class="pc" src="Home Stuff.jpeg">
         <div class="home"></div>

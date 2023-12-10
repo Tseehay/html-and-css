@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>her code</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -11,7 +11,7 @@
          <div class="herTxt">
            Her_Codes
         </div>
-        <img class="pc" src="image/Home Stuff.jpeg" alt="">
+        <img class="pc" src="Home Stuff.jpeg">
         <div class="home"></div>
     </div>
         
